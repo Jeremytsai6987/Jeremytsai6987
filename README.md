@@ -6,7 +6,6 @@
 </details>
 
 - I'm a highly motivated M.S. in Computer Science candidate at The University of Chicago, specializing in Cloud Computing, Machine Learning, Data Analytics, and Distributed Systems. 
-- My background in Economics and Political Science from National Taiwan University, combined with hands-on experience as a Data Analyst, has equipped me with a unique blend of technical and analytical skills. I have a proven track record in developing comprehensive data solutions, optimizing machine learning models, and creating robust data pipelines. 
 - My passion lies in leveraging cutting-edge technologies to solve complex problems and drive innovative solutions.
 
 
