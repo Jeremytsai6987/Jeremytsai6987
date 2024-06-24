@@ -1,6 +1,6 @@
 ### Hi, I'm Ya-Wei (Jeremy) Tsai 👋 
 
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/19164071/147938770-eddf72e3-9b2d-42d0-a73c-5ffa595c2e17.gif" width="450" height="266" />
+<img align="right" alt="GIF" src="[https://user-images.githubusercontent.com/19164071/147938770-eddf72e3-9b2d-42d0-a73c-5ffa595c2e17.gif](https://github.com/Jeremytsai6987/jeremy_tech/issues/1#issue-2369100323)" width="450" height="266" />
 
 <details><summary>Portfolio-CLICK ME</summary>
 </details>
