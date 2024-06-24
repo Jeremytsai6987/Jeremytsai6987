@@ -44,7 +44,6 @@ I'm a highly motivated M.S. in Computer Science candidate at The University of C
   •	Executed sophisticated K-means clustering to analyze player performance metrics and team dynamics; utilized Streamlit to create interactive visualizations, enhancing stakeholder understanding and engagement, and applied Excel for systematic data management, supporting nuanced analytical narratives.
   •	Conducted behavioral data analysis to distill customer trends and preferences, utilizing Python for data manipulation and Excel for data visualization, thereby informing customer engagement strategies and operational enhancements.
   •	Designed and managed a robust data pipeline using Python to streamline the aggregation and preprocessing of complex datasets, leading to a more efficient workflow and timely insights for strategic initiatives.
-![image](https://github.com/Jeremytsai6987/jeremy_tech/assets/136430781/dd607405-ab02-4353-92bd-471d01a2c086)
 
 
 - **The Climate Extremes Theory and Data (CeTD) Group – The University of Chicago** (Chicago, IL)
@@ -53,7 +52,6 @@ I'm a highly motivated M.S. in Computer Science candidate at The University of C
   •	Developed a parallel IO DataLoader utilizing dask and xarray for improved data processing performance.
   •	Adapted and modified AI weather models to enhance forecast accuracy for predicting the Asian monsoon.
   •	Contributed to projects aimed at assisting farmers in India by providing more reliable weather forecasts.
-![image](https://github.com/Jeremytsai6987/jeremy_tech/assets/136430781/e4b48ead-bdd9-4fd2-a9bd-a9055fd9868b)
 
 
 **Projects:**
@@ -64,24 +62,20 @@ I'm a highly motivated M.S. in Computer Science candidate at The University of C
   •	Integrated AWS S3 for file storage, handling file uploads and secure storage with public access configurations.
   •	Configured secure user authentication and session management using Next-Auth, enhancing application security and user experience.
   •	Utilized React for front-end development, enhancing UI with custom components and managing state with hooks.
-![image](https://github.com/Jeremytsai6987/jeremy_tech/assets/136430781/acc78c52-275f-48f7-926d-8886cecf7a45)
 
 - **NuGraph: a Graph Neural Network (GNN) for Neutrino Physics Event Reconstruction** (Partnering with Fermi Lab, March 2024 - June 2024)
   •	Advanced NuGraph3 GNN architecture, optimizing data aggregation and message-passing for enhanced event-level predictions. 
   •	Implemented a sawtooth mechanism for sequential node embedding updates, refining model accuracy and performance. 
   •	Applied residual connections in NuGraph3, boosting robustness and feature refinement across iterative message-passing. 
   •	Streamlined data pipelines with Python, enabling efficient data handling and supporting advanced analytical capabilities.
-![image](https://github.com/Jeremytsai6987/jeremy_tech/assets/136430781/ac8ca3a5-d593-44e7-a9fb-6d88d371d01b)
 
 - **Genomic Annotations Service** (January 2024 - March 2024)
   •	Led the design and development of a Genomic Annotations Service, a web service for gene data analysis utilizing Flask, Globus, and AWS cloud technologies including S3, EC2, SQS/SNS, DynamoDB, Lambda, and Step Machines.
   •	Built RESTful APIs with JavaScript and Python, managing data workflows and service integration to provide a robust user experience.
-![image](https://github.com/Jeremytsai6987/jeremy_tech/assets/136430781/a6e5b9c2-d54f-4a97-9ff3-e81136e12e47)
 
 - **Generative AI Idea Validator for Circular Economy** (January 2024)
   •	Pioneered the design and deployment of a cutting-edge AI-driven validation tool using OpenAI GPT-4 to analyze and categorize concepts within the circular economy sector. The tool is engineered to autonomously produce detailed reports that evaluate the sustainability, commercial potential, and innovative aspects of new ideas.
   •	Integrated Retrieval-Augmented Generation (RAG) with GPT-4 to enhance the AI's ability to fuse retrieved information with generated content, ensuring the production of highly accurate and contextually relevant sustainability assessments.		
-![image](https://github.com/Jeremytsai6987/jeremy_tech/assets/136430781/118461b3-a110-41c0-9b2b-f7154442e727)
 
 **Languages and Tools:**  
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
