@@ -88,16 +88,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-
-📈 My GitHub stats:
-<br />
-<span>
-<img src="https://github-readme-stats.vercel.app/api?username=Jeremytsai6987&show_icons=true&theme=gruvbox" alt="Jeremytsai6987" />
-<img src="https://leetcard.jacoblin.cool/Tsaigau6987" alt="Tsaigau6987-leetcode" />
-</span>
-<br />
-
-📊 **This week I spent my time on:**
+📊 **this week i spent my time on:**
 <br />
 <!--START_SECTION:waka-->
 
@@ -107,5 +98,16 @@ Python       2 hrs 27 mins   ███████▒░░░░░░░░░
 Text         10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.03 %
 Markdown     7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 %
 JavaScript   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
+```
+
 <!--END_SECTION:waka-->
 
+
+
+📈 My GitHub stats:
+<br />
+<span>
+<img src="https://github-readme-stats.vercel.app/api?username=Jeremytsai6987&show_icons=true&theme=gruvbox" alt="Jeremytsai6987" />
+<img src="https://leetcard.jacoblin.cool/Tsaigau6987" alt="Tsaigau6987-leetcode" />
+</span>
+<br />
