@@ -88,11 +88,15 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/7a0c79067c6ebefcf16e6501599dff880e0e33f3/topics/go/go.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/7a0c79067c6ebefcf16e6501599dff880e0e33f3/topics/java/java.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/7a0c79067c6ebefcf16e6501599dff880e0e33f3/topics/swift/swift.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/7a0c79067c6ebefcf16e6501599dff880e0e33f3/topics/r/r.png"></code>
 
+
+📈 My GitHub stats:
+<br />
+<span>
+<img src="https://github-readme-stats.vercel.app/api?username=Jeremytsai6987&show_icons=true&theme=gruvbox" alt="Jeremytsai6987" />
+<img src="https://leetcard.jacoblin.cool/Jeremytsai6987" alt="Jeremytsai6987-leetcode" />
+</span>
+<br />
 
 📊 **This week I spent my time on:**
 <br />
@@ -106,10 +110,3 @@ Markdown     7 mins          ▒░░░░░░░░░░░░░░░░
 JavaScript   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
 <!--END_SECTION:waka-->
 
-📈 My GitHub stats:
-<br />
-<span>
-<img src="https://github-readme-stats.vercel.app/api?username=Jeremytsai6987&show_icons=true&theme=gruvbox" alt="Jeremytsai6987" />
-<img src="https://leetcard.jacoblin.cool/Jeremytsai6987" alt="Jeremytsai6987-leetcode" />
-</span>
-<br />
