@@ -104,10 +104,3 @@ JavaScript   4 mins          ▒░░░░░░░░░░░░░░░░
 
 
 
-📈 My GitHub stats:
-<br />
-<span>
-<img src="https://github-readme-stats.vercel.app/api?username=Jeremytsai6987&show_icons=true&theme=gruvbox" alt="Jeremytsai6987" />
-<img src="https://leetcard.jacoblin.cool/Tsaigau6987" alt="Tsaigau6987-leetcode" />
-</span>
-<br />
