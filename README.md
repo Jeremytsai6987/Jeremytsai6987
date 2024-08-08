@@ -40,11 +40,11 @@
 **Professional Experience:**
 
 - **P.LEAGUE+** (Taipei, Taiwan)
-      - Data Analyst, September 2022 - July 2023
-      -	Orchestrated the development of comprehensive player and referee datasets employing Synergy Stats and Python, yielding pivotal insights for tactical and strategic decision-making by teams, league authorities, and media representatives.
-      -	Executed sophisticated K-means clustering to analyze player performance metrics and team dynamics; utilized Streamlit to create interactive visualizations, enhancing stakeholder understanding and engagement, and applied Excel for systematic data management, supporting nuanced analytical narratives.
-      -	Conducted behavioral data analysis to distill customer trends and preferences, utilizing Python for data manipulation and Excel for data visualization, thereby informing customer engagement strategies and operational enhancements.
-      -	Designed and managed a robust data pipeline using Python to streamline the aggregation and preprocessing of complex datasets, leading to a more efficient workflow and timely insights for strategic initiatives.
+  - Data Analyst, September 2022 - July 2023
+  -	Orchestrated the development of comprehensive player and referee datasets employing Synergy Stats and Python, yielding pivotal insights for tactical and strategic decision-making by teams, league authorities, and media representatives.
+  -	Executed sophisticated K-means clustering to analyze player performance metrics and team dynamics; utilized Streamlit to create interactive visualizations, enhancing stakeholder understanding and engagement, and applied Excel for systematic data management, supporting nuanced analytical narratives.
+  -	Conducted behavioral data analysis to distill customer trends and preferences, utilizing Python for data manipulation and Excel for data visualization, thereby informing customer engagement strategies and operational enhancements.
+  -	Designed and managed a robust data pipeline using Python to streamline the aggregation and preprocessing of complex datasets, leading to a more efficient workflow and timely insights for strategic initiatives.
   
 - **Fermilab (Data Science Clinic)** (Chicago, IL)
      - Data Science Intern, March 2024 – June 2024
@@ -55,11 +55,11 @@
      - Analyzed complex data sets to derive meaningful insights, supporting the development of advanced detection methods and contributing to the broader scientific goals of Fermilab.
 
 - **The Climate Extremes Theory and Data (CeTD) Group – The University of Chicago** (Chicago, IL)
-      - Research Assistant, June 2024 - Present
-      -	Processed data pipeline for efficient handling of large scientific datasets.
-      -	Developed a parallel IO DataLoader utilizing dask and xarray for improved data processing performance.
-      -	Adapted and modified AI weather models to enhance forecast accuracy for predicting the Asian monsoon.
-      -	Contributed to projects aimed at assisting farmers in India by providing more reliable weather forecasts.
+  - Research Assistant, June 2024 - Present
+  -	Processed data pipeline for efficient handling of large scientific datasets.
+  -	Developed a parallel IO DataLoader utilizing dask and xarray for improved data processing performance.
+  -	Adapted and modified AI weather models to enhance forecast accuracy for predicting the Asian monsoon.
+  -	Contributed to projects aimed at assisting farmers in India by providing more reliable weather forecasts.
 
 
 **Projects:**
