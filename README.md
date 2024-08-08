@@ -27,7 +27,7 @@
 **Education:**
 
 - **The University of Chicago** (Chicago, IL)
-  - M.S. in Computer Science, December 2024 (Expected)
+  - M.S. in Computer Science, March 2025 (Expected)
   - Specialized in Cloud Computing, Machine Learning, Data Analytics, and Distributed Systems
 
 - **National Taiwan University (NTU)** (Taipei, Taiwan)
