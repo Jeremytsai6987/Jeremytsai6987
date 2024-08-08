@@ -45,7 +45,14 @@
   -	Executed sophisticated K-means clustering to analyze player performance metrics and team dynamics; utilized Streamlit to create interactive visualizations, enhancing stakeholder understanding and engagement, and applied Excel for systematic data management, supporting nuanced analytical narratives.
   -	Conducted behavioral data analysis to distill customer trends and preferences, utilizing Python for data manipulation and Excel for data visualization, thereby informing customer engagement strategies and operational enhancements.
   -	Designed and managed a robust data pipeline using Python to streamline the aggregation and preprocessing of complex datasets, leading to a more efficient workflow and timely insights for strategic initiatives.
-
+  
+- **Fermilab (Data Science Clinic)** (Chicago, IL)
+ - Data Science Intern, March 2024 – June 2024
+ - Enhanced Graph Neural Networks to improve neutrino detection in Liquid Argon Time Projection Chamber systems, increasing detection efficiency and accuracy.
+ - Implemented a sawtooth mechanism and residual connections in neural networks, resulting in a 3% increase in model accuracy and a 5% improvement in overall performance.
+ - Leveraged Python and PyTorch for model development and optimization, ensuring robust and reliable data analysis processes.
+ - Collaborated with a team of scientists and data experts, contributing to groundbreaking research in particle physics and data science.
+ - Analyzed complex data sets to derive meaningful insights, supporting the development of advanced detection methods and contributing to the broader scientific goals of Fermilab.
 
 - **The Climate Extremes Theory and Data (CeTD) Group – The University of Chicago** (Chicago, IL)
   - Research Assistant, June 2024 - Present
