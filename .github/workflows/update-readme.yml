@@ -1,16 +1,24 @@
-# name: Waka Readme
+name: Waka Readme
 
-# on:
-#   workflow_dispatch:
-#   schedule:
-#     # Runs every 2 hours
-#     - cron: "0 */2 * * *"
+on:
+  # Allows the workflow to be manually triggered
+  workflow_dispatch:
+  schedule:
+    # Runs every 8 hours
+    - cron: "0 */8 * * *"
 
-# jobs:
-#   update-readme:
-#     name: Update this repo's README
-#     runs-on: ubuntu-latest
-#     steps:
-#       - uses: athul/waka-readme@master
-#         with:
-#           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+jobs:
+  update-readme:
+    name: Update README with WakaTime Stats
+    runs-on: ubuntu-latest
+    
+    steps:
+      # Checkout the repository
+      - name: Checkout repository
+        uses: actions/checkout@v2
+      
+      # Update the README with WakaTime stats
+      - name: Update README
+        uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
