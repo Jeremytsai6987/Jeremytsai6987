@@ -100,7 +100,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Haskell   5 mins          █████████████████████████   100.00 %
+Other     20 mins         ████████████████▒░░░░░░░░   65.04 %
+Haskell   11 mins         ████████▓░░░░░░░░░░░░░░░░   34.96 %
 ```
 
 <!--END_SECTION:waka-->
