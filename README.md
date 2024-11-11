@@ -55,7 +55,7 @@
      - Analyzed complex data sets to derive meaningful insights, supporting the development of advanced detection methods and contributing to the broader scientific goals of Fermilab.
 
 - **The Climate Extremes Theory and Data (CeTD) Group – The University of Chicago** (Chicago, IL)
-  - Research Assistant, June 2024 - Present
+  - Machine Learning Research Assistant, June 2024 - September 2024
   -	Processed data pipeline for efficient handling of large scientific datasets.
   -	Developed a parallel IO DataLoader utilizing dask and xarray for improved data processing performance.
   -	Adapted and modified AI weather models to enhance forecast accuracy for predicting the Asian monsoon.
@@ -63,13 +63,6 @@
 
 
 **Projects:**
-
-- **Buy Earth a Coffee Application** (March 2024 - June 2024)
-  -	Implemented back-end functionalities in Node.js with MongoDB for data management, using Mongoose for database schema creation and data
-  	interaction.
-  -	Integrated AWS S3 for file storage, handling file uploads and secure storage with public access configurations.
-  -	Configured secure user authentication and session management using Next-Auth, enhancing application security and user experience.
-  -	Utilized React for front-end development, enhancing UI with custom components and managing state with hooks.
 
 - **NuGraph: a Graph Neural Network (GNN) for Neutrino Physics Event Reconstruction** (Partnering with Fermi Lab, March 2024 - June 2024)
   -	Advanced NuGraph3 GNN architecture, optimizing data aggregation and message-passing for enhanced event-level predictions. 
@@ -95,7 +88,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-📊 **this week i spent my time on:**
+📊 **this week I spent my time on:**
 <br />
 <!--START_SECTION:waka-->
 
