@@ -104,11 +104,11 @@ cost-efficient cloud solutions
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   17 hrs 7 mins   ████████████████████████░   96.36 %
-Bash         26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.50 %
-Other        7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
-Python       4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
-TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+JavaScript   16 hrs 54 mins  ███████████████████░░░░░░   76.56 %
+C            3 hrs 17 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.92 %
+Python       37 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.83 %
+Bash         26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.01 %
+Text         21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.59 %
 ```
 
 <!--END_SECTION:waka-->
