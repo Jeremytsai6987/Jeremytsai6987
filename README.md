@@ -31,7 +31,7 @@
   - Specialized in Cloud Computing, Machine Learning, Data Analytics, and Distributed Systems
 
 - **National Taiwan University (NTU)** (Taipei, Taiwan)
-  - B.A. in Economics and Double Major in Political Science, January 2022
+  - B.A. in Political Science and Double Major in Economics, January 2022
   - Concentrated in Statistics, Econometrics, and Machine Learning
   
 - **Lund University (LU)** (Lund, Sweden)
