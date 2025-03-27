@@ -40,7 +40,7 @@
 **Professional Experience:**
 
 - **P.LEAGUE+** (Taipei, Taiwan)
-  - Data Analyst, September 2022 - July 2023
+  - Data Engineer, September 2022 - August 2023
   -	Orchestrated the development of comprehensive player and referee datasets employing Synergy Stats and Python, yielding pivotal insights for tactical and strategic decision-making by teams, league authorities, and media representatives
   -	Executed sophisticated K-means clustering to analyze player performance metrics and team dynamics; utilized Streamlit to create interactive visualizations, enhancing stakeholder understanding and engagement, and applied Excel for systematic data management, supporting nuanced analytical narratives
   -	Conducted behavioral data analysis to distill customer trends and preferences, utilizing Python for data manipulation and Excel for data visualization, thereby informing customer engagement strategies and operational enhancements
@@ -62,7 +62,7 @@
   -	Contributed to projects aimed at assisting farmers in India by providing more reliable weather forecasts
     
 - **Realix AI** (Chicago, IL)
-  - Software Engineering Intern, November 2024 - Present
+  - Software Engineering Intern, December 2024 - March 2025
   - Developed frontend frameworks using React to create responsive and user-friendly interfaces, ensuring optimal
 performance and accessibility
   - Built backend services with Express.js, integrating RESTful APIs for seamless communication with large
