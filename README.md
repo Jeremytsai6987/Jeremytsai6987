@@ -104,11 +104,7 @@ cost-efficient cloud solutions
 <!--START_SECTION:waka-->
 
 ```txt
-Python       1 hr 38 mins    ███████████▓░░░░░░░░░░░░░   46.37 %
-JavaScript   1 hr 12 mins    ████████▓░░░░░░░░░░░░░░░░   34.11 %
-YAML         26 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.52 %
-Docker       9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 %
-JSON         5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.53 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
