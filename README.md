@@ -104,8 +104,7 @@ cost-efficient cloud solutions
 <!--START_SECTION:waka-->
 
 ```txt
-Python   3 hrs 30 mins   ███████████████████████▓░   94.06 %
-CSV      13 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.94 %
+Python   6 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
