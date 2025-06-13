@@ -104,9 +104,11 @@ cost-efficient cloud solutions
 <!--START_SECTION:waka-->
 
 ```txt
-Python       1 hr 40 mins    ██████████████████████░░░   88.42 %
-JavaScript   12 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.05 %
-CSV          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
+JavaScript   1 hr 44 mins    ████████████▓░░░░░░░░░░░░   50.62 %
+Python       1 hr 40 mins    ████████████░░░░░░░░░░░░░   48.50 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
+CSV          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
+JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
 ```
 
 <!--END_SECTION:waka-->
