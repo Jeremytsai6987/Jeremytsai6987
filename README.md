@@ -104,10 +104,7 @@ cost-efficient cloud solutions
 <!--START_SECTION:waka-->
 
 ```txt
-JSON         30 mins         █████████████████░░░░░░░░   68.45 %
-Other        13 mins         ███████▓░░░░░░░░░░░░░░░░░   31.15 %
-TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
-JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
+Other   3 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
