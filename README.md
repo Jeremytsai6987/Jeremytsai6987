@@ -104,7 +104,9 @@ cost-efficient cloud solutions
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Python   25 mins         ███████████▒░░░░░░░░░░░░░   45.74 %
+Text     20 mins         █████████▒░░░░░░░░░░░░░░░   37.08 %
+YAML     9 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.18 %
 ```
 
 <!--END_SECTION:waka-->
