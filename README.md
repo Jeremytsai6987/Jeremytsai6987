@@ -104,11 +104,7 @@ cost-efficient cloud solutions
 <!--START_SECTION:waka-->
 
 ```txt
-Python     4 hrs 47 mins   ████████████████████████▓   98.82 %
-Markdown   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
-Other      1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
-YAML       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
-Text       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+Python   2 hrs 44 mins   █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
