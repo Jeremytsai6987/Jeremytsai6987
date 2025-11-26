@@ -104,8 +104,7 @@ cost-efficient cloud solutions
 <!--START_SECTION:waka-->
 
 ```txt
-Python   1 min           █████████████████████░░░░   84.03 %
-Other    0 secs          ████░░░░░░░░░░░░░░░░░░░░░   15.97 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
