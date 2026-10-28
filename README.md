@@ -5,8 +5,9 @@
 <details><summary>Portfolio-CLICK ME</summary>
 </details>
 
-- I'm a highly motivated M.S. in Computer Science candidate at The University of Chicago, specializing in Cloud Computing, Machine Learning, Data Analytics, and Distributed Systems. 
-- My passion lies in leveraging cutting-edge technologies to solve complex problems and drive innovative solutions.
+- I'm Ya-Wei (Jeremy) Tsai, an Applied Scientist at Amazon focused on search science, query understanding, personalization, and machine learning.
+- I earned my M.S. in Computer Science from the University of Chicago in March 2025. My background spans machine learning research, data engineering, and cloud-based application development.
+- I'm interested in advancing search and personalized experiences through applied machine learning.
 
 
 <span>
@@ -27,8 +28,8 @@
 **Education:**
 
 - **The University of Chicago** (Chicago, IL)
-  - M.S. in Computer Science, March 2025 
-  - Specializing in High Performance Computing, Cloud Computing, Machine Learning, Data Analytics, and Distributed Systems
+  - M.S. in Computer Science, awarded March 2025
+  - Academic focus: High Performance Computing, Cloud Computing, Machine Learning, Data Analytics, and Distributed Systems
 
 - **National Taiwan University (NTU)** (Taipei, Taiwan)
   - B.A. in Political Science and Double Major in Economics, January 2022
@@ -38,6 +39,10 @@
   - Exchange Program in Social Science, January 2022
 
 **Professional Experience:**
+
+- **Amazon**
+  - Applied Scientist, 2026 – Present
+  - Focus areas: Search Science, Query Understanding, Personalization, and Machine Learning
 
 - **P.LEAGUE+** (Taipei, Taiwan)
   - Data Engineer, September 2022 - August 2023
