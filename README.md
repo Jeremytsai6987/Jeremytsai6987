@@ -44,13 +44,6 @@
   - Applied Scientist, 2026 – Present
   - Focus areas: Search Science, Query Understanding, Personalization, and Machine Learning
 
-- **P.LEAGUE+** (Taipei, Taiwan)
-  - Data Engineer, September 2022 - August 2023
-  -	Orchestrated the development of comprehensive player and referee datasets employing Synergy Stats and Python, yielding pivotal insights for tactical and strategic decision-making by teams, league authorities, and media representatives
-  -	Executed sophisticated K-means clustering to analyze player performance metrics and team dynamics; utilized Streamlit to create interactive visualizations, enhancing stakeholder understanding and engagement, and applied Excel for systematic data management, supporting nuanced analytical narratives
-  -	Conducted behavioral data analysis to distill customer trends and preferences, utilizing Python for data manipulation and Excel for data visualization, thereby informing customer engagement strategies and operational enhancements
-  -	Designed and managed a robust data pipeline using Python to streamline the aggregation and preprocessing of complex datasets, leading to a more efficient workflow and timely insights for strategic initiatives
-  
 - **Fermilab (Data Science Clinic)** (Chicago, IL)
      - Data Science Intern, March 2024 – June 2024
      - Enhanced Graph Neural Networks to improve neutrino detection in Liquid Argon Time Projection Chamber systems, increasing detection efficiency and accuracy
